@@ -1,0 +1,6 @@
+distance
+testdistance
+distanceCuda
+distanceMetal
+*.o
+*.dat

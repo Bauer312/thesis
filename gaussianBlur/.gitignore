@@ -1,0 +1,6 @@
+gaussian
+testblur
+blurMetal
+blurCuda
+*.o
+*.dat
